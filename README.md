@@ -148,20 +148,6 @@ This project is designed for:
 
 IEEE Conference / Journal submission
 
-Final Year Black Book (8 Credits)
-
-🚀 Future Enhancements
-
-Edge deployment (Jetson Nano)
-
-Robotic rejection arm integration
-
-Multilingual prompt support
-
-Thermal + RGB fusion
-
-Extension to other food products
-
 👩‍🎓 Author
 
 Aishwarya
